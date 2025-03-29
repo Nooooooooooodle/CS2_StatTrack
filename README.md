@@ -9,3 +9,5 @@
 
 ---
 [关注我的bilibili](https://space.bilibili.com/390298544)
+
+[此程序的介绍视频-bilibili](https://www.bilibili.com/video/BV1LXovYCEGm/)
